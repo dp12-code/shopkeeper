@@ -1,0 +1,20 @@
+{
+  "name": "shopkeeper",
+  "version": "1.0.0",
+  "description": "A web based game where you provide munitions to strangers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Peterson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dp12-code/shopkeeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dp12-code/shopkeeper/issues"
+  },
+  "homepage": "https://github.com/dp12-code/shopkeeper#readme"
+}
